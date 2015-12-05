@@ -1,0 +1,57 @@
+Merus sank into his chair with relief. 
+He listened for the satisfying crackling sound of sinking into the chair's soft material. 
+If there was one piece of hardware that his employer was not afraid to invest a lot of money into, it was the chairs. 
+With his eyes closed, his mind still dazed, and nothing but the background hum of the office, he became aware of his heart pounding against his chest- an effect caused by running up the stairs and his morning dose of caffeine and taurine slowly engulfing his brain. 
+Several strong beats passed by as he found his mind wandering again to Licia - did she already come in? A sudden beep from his station distracted him - the system finished booting up. 
+A last deep sigh. A stretch. A last sip of his coffee. He opened his eyes, rubbed them into focus and reached for his hardware. "Thank god it's Friday", he muttered. It was time to clock in.
+Fully suited up, he began scrolling past a seemingly endless list of options. 
+Filtering, searching, trying to determine what he was in the mood for. 
+He had worked hard and over time built himself up into one of the best shapers in the company. 
+In addition he had completed a wide array of shaper certifications, repeating some of them over and over obsessively until he reached outstanding grades across the board. 
+The reviews on his profile were equally stellar:"Merus is fantastic. 
+He has a strong intuition for spotting gaps in the data, and uses exceedingly effective curriculum and shaping strategies. 
+When Merus gets on the job our validation accuracies consistently shoot up much faster than what we see with average shapers. Keep up the great work and please think of us if you're searching for great, rewarding and impactful HITs!",
+one review read. HIT was an acronym for Human Intelligence Task - a unit of work that required human supervision. With his reviews and certifications the shaping world was wide open. 
+His list contained many lucrative, well-paying HITs to choose from, many of them visible to only the most trusted shapers. 
+This morning he came by several that caught his attention: a bodyguard HIT for some politician in Sweden, a HIT from a science expedition in Antarctica that needed help with setting up their equipment, a dog-walking HIT for a music celebrity, a quick drone delivery HIT that seemed to be payed very well... 
+Suddenly, a notification caught the corner of his eye: Licia had just clocked in and started a HIT. He opened up its details pane and skimmed the description. 
+His eyes rolled as he spotted the keywords he was afraid of - event assembly at the Hilltop Hotel. "Again?" - he moaned in a hushed voice, raising his hands up and over his head in quiet contemplation. 
+Licia had often picked up HITs from that same hotel, but they were often unexciting and menial tasks that weren't paid much. Merus rearranged himself in his chair, and sunk his face into his palms. 
+He noticed though the crack of his fingers that the drone delivery HIT had just been taken by someone else. He cursed to himself. 
+Absent mindedly and with a deep sigh, he accepted the second remaining slot on the Hilltop Hotel HIT.
+His hardware lit up with numbers and indicators, and his console began spewing diagnostic information as the boot sequence initiated. 
+Anyone could be a shaper and get started with inexpensive gear, but the company provided state of the art hardware that allowed him be much more productive. 
+A good amount of interesting HITs also demanded certain low-latency hardware requirements, which only the most professional gear could meet. 
+In turn, the company took a cut from his HITs. Merus dreamed of one day becoming an independent shaper, but he knew that would take a while. 
+He put on the last pieces of his equipment. The positional tracking in his booth calibrated his full pose and all markers tracked green. 
+The haptics that enveloped his body in his chair stiffened up around him as they initialized. He placed his helmet over his face and booted up.
+The buzz and hum of the office disappeared. Merus was immersed in a complete, peaceful silence and darkness while the HIT request was processed. 
+Connections were made, transactions accepted, certification checks performed, security tokens exchanged, HIT approval process initiated. 
+At last, Merus' vision was flooded with light. The shrieks of some tropical birds were now audible in the background. 
+He found himself at the charging station of Pegasus Avatars, which his company had a nearly exclusive relationship with. 
+Merus eagerly glanced down at his avatar body and breathed a sigh of relief. 
+Among the several suspended avatars at that charging station he happened to get assigned the one with the most recent hardware specs. 
+Everything looked great, his avatar was fully charged, and all the hardware diagnostics checked out. Except the body came in hot pink. "You just can't have it all".
+The usual first order of business was to run a few routine diagnostics to double check proper functioning of the avatar. 
+He opened up the neural network inspector and navigated to the overview pane of the agent checkpoint that was running the avatar. 
+The model was a relatively recent fork of the standard, open source Visceral 5.0 series. Merus was delighted - the Visceral family of agents was one of his specialties. 
+The Visceral agents had a minimalist design that came in at a total of only about 1 trillion parameters and had a very simple, clean, proven and reliable architecture. 
+However, there were still a few exotic architectural elements packed in too, including shortcut sensorimotor reflex pathways, fractal connectivity in the visual streams, and distributed motor areas inspired by the octopus neurobiology. 
+And then, of course, there was also the famous Mystery module.
+The Mystery module had an intriguing background story, and was a common subject of raging discussions and conspiracy theories. It was added to the Visceral series by an anonymous pull request almost 6 years ago. 
+The module featured an intricate recurrent neural connectivity that, when incorporated into the wider network, dramatically improved the agent performance in a broad range of higher cognitive tasks. Except noone knew how, why, or who discovered it - hence the name. 
+The module immediately became actively studied by multiple groups of artificial intelligence laboratories and became the subject of several PhD theses, yet even after 6 years it was still poorly understood. 
+Merus enjoyed poring through papers that hypothesized its function, performed ablation studied, and tried to prove theorems for why it so tremendously improved agent performance and learning dynamics.
+Moreover, an ethical battle raged over whether the module should be merged to master due to its poorly understood origin, function, and especially its dynamical properties such as its fixed points, divergence criteria, and so on. 
+But in the end, the Mystery module provided benefits so substantial that several popular forks of Visceral+Mystery Module began regularly appearing on agent repositories across the web, and found their way to common use. 
+Despite the protests, the economic incentives and pressures were too great to be ignored. In the absence of any clearly detrimental or hazardous effects over a long period of time, the Visceral committee finally voted to merge the Mystery module into the master branch.
+Merus had a long history of shaping Visceral agents and their ancestors. The series was forked from the Patreon series, which were discontinued four years ago when the founding team was acquired by Crown Co. 
+The Patreon series were in turn based mostly on the SHAKIR series, which were in turn based on many more ancient agent architectures, all the way back to the original - the Adam checkpoint. 
+The Visceral family of agents had a reputation of smooth dynamics that degraded gracefully towards floppy, safe fixed points. 
+There were even some weak theoretical and empirical guarantees one could provide for simplified versions of the core cognitive architecture. 
+Another great source of good reputation for Visceral were the large number of famous interventions carried out by autonomous Visceral agents. 
+Just one week ago, Merus recalled, an autonomous Visceral 4.0 agent saved a group of children from rabid dogs in a small town in India. 
+The agent recognized an impending dangerous situation, signaled an alarm and a human operator was dispatched to immediately sync with the agent. However, by the time they took over control the crisis had been averted. 
+Those few critical seconds where the agent, acting autonomously, scared away the dogs had likely saved their lives. 
+The list went on and on - one month ago an autonomous Visceral agent recognized a remote drone attack. It leaped up and curled its body around the drone, which exploded in its embrace instead of in the middle of a group of people. 
+Of course, this was nothing more than an agent working as intended - these kinds of behaviors were meticulously shaped into the agents' networks over long periods of time. But the point remained - the Visceral series was reliable, safe, and revered.
