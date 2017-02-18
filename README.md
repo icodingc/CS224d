@@ -1,4 +1,4 @@
-[CS224d assignments]https://cs224d.stanford.edu/)
+[CS224d assignments](https://cs224d.stanford.edu/)
 ==================================
 
 Assignment 1
